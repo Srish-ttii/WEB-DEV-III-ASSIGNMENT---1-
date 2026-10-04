@@ -1,0 +1,35 @@
+{
+  "name": "smart-utility-toolkit",
+  "version": "1.0.0",
+  "description": "Smart Utility Toolkit - Web Dev III Lab Assignment 1 using Node.js Core Modules",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node app.js",
+    "server": "node server.js",
+    "calc": "node calculator.js",
+    "dice": "node dice.js",
+    "file": "node fileManager.js",
+    "file:demo": "node fileManager.js demo",
+    "test": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "core-modules",
+    "http-server",
+    "fs-crud",
+    "crypto-dice",
+    "cli-calculator",
+    "webdev3"
+  ],
+  "author": "Srishti (Roll No: 2501730380)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Srish-ttii/WEB-DEV-III-ASSIGNMENT---1-"
+  },
+  "bugs": {
+    "url": "https://github.com/Srish-ttii/WEB-DEV-III-ASSIGNMENT---1-/issues"
+  },
+  "homepage": "https://github.com/Srish-ttii/WEB-DEV-III-ASSIGNMENT---1-#readme"
+}
